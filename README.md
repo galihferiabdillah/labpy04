@@ -7,7 +7,7 @@
 ![2](https://github.com/user-attachments/assets/4801c198-9ddc-43ba-91bb-0efff6236417)
 
 # ELEMEN PY 
-list_a = [1, 2, 3, 4, 5]
+  list_a = [1, 2, 3, 4, 5]
 
 print(list_a[2])
 
