@@ -1,1 +1,7 @@
 # labpy04
+# NAMA : MUHAMMAD GALIH FERI ABDILLLAH 
+# NIM  : 312410299
+# KELAS: TI.24.A4
+# MATKUL : BAHASA PEMOGRAMAN
+# LATIHAN PRAKTIKUM 5
+![2](https://github.com/user-attachments/assets/4801c198-9ddc-43ba-91bb-0efff6236417)
