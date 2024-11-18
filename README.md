@@ -1,4 +1,4 @@
-# labpy04
+
 # NAMA : MUHAMMAD GALIH FERI ABDILLLAH 
 # NIM  : 312410299
 # KELAS: TI.24.A4
@@ -127,6 +127,16 @@ print("-" * 60)
 # Header tabel dicetak terlebih dahulu, diikuti oleh baris-baris data untuk setiap mahasiswa, Untuk setiap mahasiswa, metode hitung_nilai_akhir dipanggil untuk menghitung nilai akhir, lalu data ditampilkan dalam format tabel
 
 # CODE PROGRAM DI VISUAL CODE SEBAGAI BERIKUT : 
+![PY2](https://github.com/user-attachments/assets/26401f3c-2b47-427f-90b8-bfd7766ad602)
+
+# HASIL PROGRAM YANG ADA DI ATAS SEBAGAI BERIKUT :
+![py 2](https://github.com/user-attachments/assets/e306f781-255a-4ff4-ba83-ed1774d46818)
+
+# DAN DI BAWAH INI ADALAH FLOWCHARTNYA : 
+
+
+
+
 
 
 
