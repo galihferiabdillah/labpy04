@@ -133,6 +133,7 @@ print("-" * 60)
 ![py 2](https://github.com/user-attachments/assets/e306f781-255a-4ff4-ba83-ed1774d46818)
 
 # DAN DI BAWAH INI ADALAH FLOWCHARTNYA : 
+![image](https://github.com/user-attachments/assets/b3a42627-efd3-4efa-81b4-825edce94563)
 
 
 
