@@ -34,7 +34,7 @@ print(list_b)
 
 list_a.extend(list_b)
 print(list_a) 
-
+```
 # CODE PROGRAM DI VISUAL CODE SEPERTI BERIKUT :
 ![PY 1](https://github.com/user-attachments/assets/f8c082e1-04ff-4064-87f0-0b55f49d4a5e)
 
